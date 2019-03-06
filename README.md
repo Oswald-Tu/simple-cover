@@ -1,9 +1,9 @@
-# @tu/simple-assign
+# simple-cover
 simple assign json data  
 
 npm install
 
-import simpleAssign from '@tu/simple-assign';
-console.log(simpleAssign({name:'xiaoming'}, {age:12, name:'hong'})); // result: {name: 'hong'}  
-console.log(simpleAssign({name:'xiaoming'}, {age:12, name:'hong'}, {name:'big'})); // result: {name: 'big'}
+import simpleCover from '@tu/simple-cover';
+console.log(simpleCover({name:'xiaoming'}, {age:12, name:'hong'})); // result: {name: 'hong'}  
+console.log(simpleCover({name:'xiaoming'}, {age:12, name:'hong'}, {name:'big'})); // result: {name: 'big'}
 
