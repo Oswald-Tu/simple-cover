@@ -1,5 +1,5 @@
 {
-  "name": "simple-assign",
+  "name": "simple.assign",
   "version": "1.0.0",
   "description": "simple assign json data",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oswald-Tu/simple-assign.git"
+    "url": "git+https://github.com/Oswald-Tu/simple.assign.git"
   },
   "keywords": [
     "json",
@@ -18,9 +18,9 @@
   "author": "Oswald-Tu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Oswald-Tu/simple-assign/issues"
+    "url": "https://github.com/Oswald-Tu/simple.assign/issues"
   },
-  "homepage": "https://github.com/Oswald-Tu/simple-assign#readme",
+  "homepage": "https://github.com/Oswald-Tu/simple.assign#readme",
   "dependencies": {
     "data.is": "^1.0.0"
   }
