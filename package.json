@@ -1,14 +1,14 @@
 {
-  "name": "@tu/simple-assign",
+  "name": "simple-cover",
   "version": "1.0.0",
-  "description": "simple assign json data",
+  "description": "simple cover json data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oswald-Tu/simple-assign.git"
+    "url": "git+https://github.com/Oswald-Tu/simple-cover.git"
   },
   "keywords": [
     "json",
@@ -18,9 +18,9 @@
   "author": "Oswald-Tu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Oswald-Tu/simple-assign/issues"
+    "url": "https://github.com/Oswald-Tu/simple-cover/issues"
   },
-  "homepage": "https://github.com/Oswald-Tu/simple-assign#readme",
+  "homepage": "https://github.com/Oswald-Tu/simple-cover#readme",
   "dependencies": {
     "data.is": "^1.0.0"
   }
